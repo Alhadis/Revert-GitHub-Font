@@ -1,0 +1,7 @@
+body{
+	font-size: 13px !important;
+}
+
+body, .markdown-body, .intgrs-page .main-content, .blog-content, .migration-wrapper, .migrate-owners-wrapper, .setup-wrapper, .showcase-page-title, .tooltipped::after{
+	font-family: sans-serif !important;
+}

@@ -16,12 +16,16 @@
 		"css": ["content.css"],
 		"matches": [
 			"https://github.com/",
+			"https://github.com/*",
 			"https://github.com/*/",
 			"https://github.com/*/*",
+			"https://github.com/*/*/",
 			
 			"https://gist.github.com/",
+			"https://gist.github.com/*",
 			"https://gist.github.com/*/",
-			"https://gist.github.com/*/*"
+			"https://gist.github.com/*/*",
+			"https://gist.github.com/*/*/"
 		]
 	}]
 }
